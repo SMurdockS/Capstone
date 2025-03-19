@@ -22,7 +22,7 @@ The web app aims to make a simple and helpful pet management app, to help new an
   - Install Visual Studio Code with the C# extension.
 
 # Clone the repository to your local machine
-git clone https://github.com/SMurdockS/DigitalPaws.git
+git clone https://github.com/SMurdockS/Capstone.git
 cd DigitalPaws
 
 # Source Control Strategy
